@@ -3,7 +3,7 @@
 <h3 align="center">A passionated developer based in Myanmar.</h3>
 
 
-- 🔭 I’m currently working on **Epson Asia.**
+- 🔭 I’m currently working at **Epson Asia.**
 - 👯 I’m looking to collaborate on **Web 3.**
 - 🌱 I’m currently learning **Laravel.**
 
