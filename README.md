@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Laravel.**
 
 - 📫 How to reach me **minsuwai.dev@gmail.com**
-- 👨‍💻 All of my projects are available at **https://portfolio-min-su-wais-projects.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://minsuwai-dev-portfolio.vercel.app/**
 - ⚡ Fun fact **Programming, creative, innovative.**
 
 <div> <a href="https://www.linkedin.com/in/Min Su Wai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
