@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Refruit.**
 - 👯 I’m looking to collaborate on **Web 3.**
-- 🌱 I’m currently learning **Laravel.**
+- 🌱 I’m currently learning **Laravel, React**
 
 - 📫 How to reach me **minsuwai.dev@gmail.com**
 - 👨‍💻 All of my projects are available at **https://minsuwai-dev-portfolio.vercel.app/**
